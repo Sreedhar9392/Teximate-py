@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+textimate/__init__.py
+textimate/ocr.py
+textimate/speech.py
+textimate/translate.py
+textimate.egg-info/PKG-INFO
+textimate.egg-info/SOURCES.txt
+textimate.egg-info/dependency_links.txt
+textimate.egg-info/requires.txt
+textimate.egg-info/top_level.txt

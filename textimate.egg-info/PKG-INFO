@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: textimate
+Version: 0.1
+Summary: A Python library for automating tasks like text extraction, speech recognition, and language translation.
+Author: Madhu Mohan Reddy Y
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+License-File: LICENSE
