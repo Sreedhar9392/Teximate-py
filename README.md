@@ -72,7 +72,7 @@ The library is currently under development and planned for release on [PyPI](htt
 This project is licensed under the MIT License - see [LICENSE](LICENSE) for details.
 
 ## Contact
-For questions, please reach out to [Madhu Mohan Reddy](mailto:yeddulamadhu6@gmail.com).
+For questions, please reach out to [Madhu Mohan Reddy](mailto:arikerasreedharreddy@gamil.com).
 
 
 This `README.md` provides clear instructions and examples for using the TextiMate Library, ensuring that users can quickly get started with it.
